@@ -35,7 +35,7 @@ Keep track of your additions or changes to the series with a simple log entry.
 
 ## Discussion
 
-This is our third experiment in building a collaborative tracing environment using GitHub. We are modifying the protocol slightly to include the checking out of the series as a whole each time someone wants to work on it. This is similar to the normal workflow of the lab. One of the main issues we can encountered is when two separate tracers make different changes on the same sections. **It is extremely important that you check the Series Status and make a pull before doing any work on a series!!!!** 
+This is our third experiment in building a collaborative tracing environment using GitHub. We are modifying the protocol slightly to include checking out the series as a whole each time someone wants to work on it. This is similar to the normal workflow of the lab. One of the main issues we have encountered is when two separate tracers make different changes on the same sections. **It is extremely important that you check the Series Status and make a pull before doing any work on a series!!!!** 
 
 This next phase is also a chance to get more people involved and up to speed with the basics of this versioning system. In the future, we hope to be able to use pyRecon or other tools to more easily merge .xml file changes, which could open up the possibility for real simultaneous tracing. In the meantime, if users do need to make traces on a series at the same time, they will have to "check out" specific sections to work on. This will lock any other tracers out of making changes to those sections, which is certainly restictive, but it is the best methology we have for that situation at this time. 
 
