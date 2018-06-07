@@ -23,13 +23,14 @@ Every member of the Reconstruct team is encouraged to clone this repository trac
 * Step 8: **Go back** to Step 2 whenever you plan to work on the series again.
 
 ## Series Status
+You can also add emojis to better indicate availability. Just add either heavy_check_mark :heavy_check_mark: or no_entry_sign :no_entry_sign: contained within two : marks when editing the README.  
 
 * Clear :heavy_check_mark:
 
 ## Series Log
 Keep track of your additions or changes to the series with a simple log entry.
 
-* 06.07.20148 DCH uploaded series repository.
+* 06.07.2018 DCH uploaded series repository.
 
 
 ## Discussion
