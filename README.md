@@ -47,3 +47,6 @@ This section will be periodically updated to show 3D renderings of tracing progr
 
 ### d01
 ![d01_initial](animations/d01_initial.gif?raw=true "d01_initial")
+
+### d02
+![d02_initial](animations/d02_initial.gif?raw=true "d02_initial")
