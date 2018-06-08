@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="11" viewport="0.90829 2.78521 0.00339119"
+<Series index="1" viewport="-5.51332 -0.605795 0.0117666"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -29,10 +29,10 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="1.000 1.000 0.000"
-	defaultFill="1.000 1.000 0.000"
+	defaultBorder="1.000 0.000 0.000"
+	defaultFill="1.000 0.000 0.000"
 	defaultMode="11"
-	defaultName="d01"
+	defaultName="d02"
 	defaultComment=""
 	listSectionThickness="true"
 	listDomainSource="true"
@@ -129,7 +129,7 @@
 	1 3,
 	-1 3,
 	"/>
-<Contour name="d01ax01" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="11"
+<Contour name="d02" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="11"
  points="-2 1,
 	-5 0,
 	-2 -1,
@@ -147,12 +147,12 @@
 	-1 2,
 	-4 4,
 	"/>
-<Contour name="d01ax02" closed="true" border="0.000 1.000 1.000" fill="0.000 1.000 1.000" mode="-11"
+<Contour name="" closed="true" border="0.000 1.000 1.000" fill="0.000 1.000 1.000" mode="-13"
  points="-6 -6,
 	6 -6,
 	0 5,
 	"/>
-<Contour name="d02" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-11"
+<Contour name="" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
  points="-7 7,
 	-2 0,
 	-7 -7,
@@ -166,7 +166,7 @@
 	0 1,
 	-4 7,
 	"/>
-<Contour name="d02ax01" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="11"
+<Contour name="" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="13"
  points="8 8,
 	8 -8,
 	-8 -8,
@@ -178,7 +178,7 @@
 	-10 10,
 	-8 8,
 	"/>
-<Contour name="d02ax02" closed="true" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="11"
+<Contour name="" closed="true" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="13"
  points="0 7,
 	-7 0,
 	0 -7,
