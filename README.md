@@ -25,7 +25,7 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 ## Series Status
 You can also add emojis to better indicate availability. Just add either heavy_check_mark :heavy_check_mark: or no_entry_sign :no_entry_sign: contained within two : marks when editing the README.  
 
-* Available :no_entry_sign: (Dusten)
+* CHecked Out! :no_entry_sign: (Dusten)
 
 ## Series Log
 Keep track of your additions or changes to the series with a simple log entry.
