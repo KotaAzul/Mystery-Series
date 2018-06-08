@@ -25,11 +25,12 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 ## Series Status
 You can also add emojis to better indicate availability. Just add either heavy_check_mark :heavy_check_mark: or no_entry_sign :no_entry_sign: contained within two : marks when editing the README.  
 
-* CHecked Out! :no_entry_sign: (Dusten)
+* Available :heavy_check_mark:
 
 ## Series Log
 Keep track of your additions or changes to the series with a simple log entry.
 
+* 06.08.2018 DDH traced d02 on s1-10
 * 06.08.2018 Bob traced bob001? over ss 48-50
 * 06.08.2018 DCH traced d01 over ss 1-10
 * 06.07.2018 DCH uploaded series repository.
