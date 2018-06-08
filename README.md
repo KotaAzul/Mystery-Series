@@ -30,6 +30,7 @@ You can also add emojis to better indicate availability. Just add either heavy_c
 ## Series Log
 Keep track of your additions or changes to the series with a simple log entry.
 
+* 06.08.2018 DCH traced d01 over ss 1-10
 * 06.07.2018 DCH uploaded series repository.
 
 
