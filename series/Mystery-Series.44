@@ -15,15 +15,4 @@
 	"/>
 </Transform>
 
-<Transform dim="0"
- xcoef=" 0 1 0 0 0 0"
- ycoef=" 0 0 1 0 0 0">
-<Contour name="d02ax02" hidden="false" closed="true" simplified="false" border="0 0 1" fill="0 0 1" mode="11"
- points="6.44605 6.43877,
-	6.37821 6.37094,
-	6.44605 6.3031,
-	6.51389 6.37094,
-	"/>
-</Transform>
-
 </Section>

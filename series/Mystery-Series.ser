@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="47" viewport="4.19437 5.73195 0.00283365"
+<Series index="11" viewport="0.90829 2.78521 0.00339119"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -29,10 +29,10 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="0.000 0.000 1.000"
-	defaultFill="0.000 0.000 1.000"
+	defaultBorder="1.000 1.000 0.000"
+	defaultFill="1.000 1.000 0.000"
 	defaultMode="11"
-	defaultName="d02ax02"
+	defaultName="d01"
 	defaultComment=""
 	listSectionThickness="true"
 	listDomainSource="true"
@@ -90,7 +90,7 @@
 		0.000 0.000 0.000,
 		"
 	offset3D="0 0 0"
-	type3Dobject="0"
+	type3Dobject="1"
 	first3Dsection="1"
 	last3Dsection="2147483647"
 	max3Dconnection="-1"
