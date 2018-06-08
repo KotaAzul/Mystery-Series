@@ -26,6 +26,7 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 You can also add emojis to better indicate availability. Just add either heavy_check_mark :heavy_check_mark: or no_entry_sign :no_entry_sign: contained within two : marks when editing the README.  
 
 * Available :heavy_check_mark:
+* Sections 48-50 :no_entry_sign: Bob
 
 ## Series Log
 Keep track of your additions or changes to the series with a simple log entry.
