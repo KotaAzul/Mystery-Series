@@ -26,11 +26,25 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 You can also add emojis to better indicate availability. Just add either heavy_check_mark :heavy_check_mark: or no_entry_sign :no_entry_sign: contained within two : marks when editing the README.  
 
 * Available :heavy_check_mark:
-* Sections 48-50 :no_entry_sign: Bob
+
+## Section Status Table
+
+| # / Status | # / Status | # / Status | # / Status | # / Status | # / Status | 
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| 1 /    | 2 /    | 3 /    | 4 /    | 5 /    | 6 /    |
+| 7 /    | 8 /    | 9 /    | 10 /   | 11 /   | 12 /   |
+| 13 /   | 14 /   | 15 /   | 16 /   | 17 /   | 18 /   |
+| 19 /   | 20 /   | 21 /   | 22 /   | 23 /   | 24 /   |
+| 25 /   | 26 /   | 27 /   | 28 /   | 29 /   | 30 /   |
+| 31 /   | 32 /   | 33 /   | 34 /   | 35 /   | 36 /   |
+| 37 /   | 38 /   | 39 /   | 40 /   | 41 /   | 42 /   |
+| 43 /   | 44 /   | 45 /   | 46 /   | 47 /   | 48 /   |
+| 49 /   | 50 /   |        |        |        |        |
 
 ## Series Log
 Keep track of your additions or changes to the series with a simple log entry.
 
+* 06.08.2018 Bob traced bob001? over ss 48-50
 * 06.08.2018 DCH traced d01 over ss 1-10
 * 06.07.2018 DCH uploaded series repository.
 
