@@ -43,5 +43,5 @@ This next phase is also a chance to get more people involved and up to speed wit
 ## Animation
 This section will be periodically updated to show 3D renderings of tracing progress.
 
-###d01
+### d01
 ![d01_initial](animations/d01_initial.gif?raw=true "d01_initial")
