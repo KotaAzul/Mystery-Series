@@ -30,6 +30,7 @@ You can also add emojis to better indicate availability. Just add either heavy_c
 ## Series Log
 Keep track of your additions or changes to the series with a simple log entry.
 
+* 06.09.2018 Bob First use of Java Reconstruct for RGB_100 and RGB_010 on ss 46,47
 * 06.08.2018 DDH traced d02 on s1-10
 * 06.08.2018 Bob traced bob001? over ss 48-50
 * 06.08.2018 DCH traced d01 over ss 1-10
