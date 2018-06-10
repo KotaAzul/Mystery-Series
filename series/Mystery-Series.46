@@ -18,7 +18,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="RGB_010" hidden="false" closed="true" simplified="false" border="0.0 0.7490196078431373 0.0" fill="0.0 0.7490196078431373 0.0" mode="13"
+<Contour name="bob001" hidden="false" closed="true" simplified="false" border="0.0 0.5 0.0" fill="0.0 0.5 0.0" mode="13"
  points="  7.424782230897123 6.527616502512403,
   7.454215371439514 6.546148479890945,
   7.473837465134442 6.567950806218642,
