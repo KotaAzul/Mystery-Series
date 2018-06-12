@@ -16,7 +16,7 @@ Every member of the Reconstruct team is encouraged to clone this repository and 
 
 * Step 5: **Commit** your changes locally (**git commit -a** or similar alternatives). 
 
-* Step 6: **Finalize** your work by editing your local README file. Change the **Series Status** back to "Available" and add an entry into the **Section Log**.
+* Step 6: **Finalize** your work by editing your local README file. Change the **Series Status** back to "Available" and add an entry into the **Section Log**. Commit this change locally as well.
 
 * Step 7: **Push** all of your changes to GitHub (**git push origin master**).
 
