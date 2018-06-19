@@ -7,7 +7,7 @@
  ycoef=" 0 0 1 0 0 0">
 <Image mag="0.00254" contrast="1" brightness="0" red="true" green="true" blue="true"
  src="..\images\FWNGV.32.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+<Contour name="domain1" type="line" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
 	4095 0,
 	4095 4095,
@@ -18,7 +18,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="Bobs_Dark_Blob" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="13"
+<Contour name="Bobs_Dark_Blob" type="line" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="13"
  points="5.47997 1.04182,
 	5.5008 0.958473,
 	5.58415 0.875128,
