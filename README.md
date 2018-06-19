@@ -49,7 +49,8 @@ This next phase is also a chance to get more people involved and up to speed wit
 This section will be periodically updated to show 3D renderings of tracing progress.
 
 ### d01
-![d01_initial](animations/d01_initial.gif?raw=true "d01_initial")
+![d01_bob_java_traces](animations/d01_bob_java_traces.gif?raw=true "d01_bob_java_trace")
+![d01_bob_java](animations/d01_bob_java.gif?raw=true "d01_bob_java")
 
 ### d02
 ![d02_initial](animations/d02_initial.gif?raw=true "d02_initial")
