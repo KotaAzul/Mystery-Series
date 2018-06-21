@@ -45,7 +45,7 @@ This is our third experiment in building a collaborative tracing environment usi
 This next phase is also a chance to get more people involved and up to speed with the basics of this versioning system. In the future, we hope to be able to use pyRecon or other tools to more easily merge .xml file changes, which could open up the possibility for real simultaneous tracing. In the meantime, if users do need to make traces on a series at the same time, they will have to "check out" specific sections to work on. This will lock any other tracers out of making changes to those sections, which is certainly restictive, but it is the best methology we have for that situation at this time. 
 
 
-## Animation
+## Animations
 This section will be periodically updated to show 3D renderings of tracing progress.
 
 ### d01
@@ -54,3 +54,6 @@ This section will be periodically updated to show 3D renderings of tracing progr
 
 ### d02
 ![d02_initial](animations/d02_initial.gif?raw=true "d02_initial")
+
+### Java2018062016a and others
+![Current20180620](animations/Git_Commit_5082275943.gif?raw=true "Current20180620")
