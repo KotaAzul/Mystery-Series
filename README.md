@@ -56,4 +56,4 @@ This section will be periodically updated to show 3D renderings of tracing progr
 ![d02_initial](animations/d02_initial.gif?raw=true "d02_initial")
 
 ### Java2018062016a and others
-![Current20180620](animations/Git_Commit_5082275943.gif?raw=true "Current20180620")
+![Current41a8dc3d2bad](animations/Git_Commit_41a8dc3d2bad.gif?raw=true "Current41a8dc3d2bad")
