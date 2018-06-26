@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="9" viewport="2.84407 3.39685 0.00303267"
+<Series index="1" viewport="4.05486 4.45407 0.00251629"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -29,10 +29,10 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="1.000 0.000 0.000"
-	defaultFill="1.000 0.000 0.000"
+	defaultBorder="0.000 1.000 0.000"
+	defaultFill="0.000 1.000 0.000"
 	defaultMode="11"
-	defaultName="d02"
+	defaultName="ax01"
 	defaultComment=""
 	listSectionThickness="true"
 	listDomainSource="true"
@@ -208,7 +208,7 @@
 	-12 -6,
 	-3 -12,
 	"/>
-<Contour name="green$+" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
+<Contour name="ax01" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="11"
  points="-12 4,
 	-12 -4,
 	-4 -4,
